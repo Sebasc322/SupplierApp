@@ -16,6 +16,9 @@ resulting page: https://supplier.herokuapp.com/ (spanish)
 
 
 
-Thanks to Canopy Proyect!
+
+
 This web app was based on Proyect Canopy's web app
 https://www.proyectocanopy.co/
+
+Thanks to Canopy Proyect!
