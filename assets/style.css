@@ -135,21 +135,6 @@ a {
   padding-bottom: 4rem !important;
 }
 
-.div-for-alerta-sobrecosto{
-  background-color:#3f3f3f59;
-  padding-bottom: 4rem !important;
-}
-
-.div-for-alerta-concentracion{
-  background-color: #ab80ca;
-  padding-bottom: 4rem !important;
-}
-
-.div-for-alerta-financiacion{
-  background-color: #f8e380;
-  padding-bottom: 4rem !important;
-}
-
 .div-for-graph-card {
   padding: 5rem !important;
 }
@@ -226,30 +211,6 @@ a {
 
 .back-home {
   background-image: url("/../assets/backgrounds/home_image_a.jpg") !important;
-  background-position-y: bottom;
-  background-size: cover;
-}
-
-.back-transparencia {
-  background-image: url("/../assets/backgrounds/home_image_b.jpg") !important;
-  background-position-y: bottom;
-  background-size: cover;
-}
-
-.back-concentracion {
-  background-image: url("/../assets/backgrounds/home_image_purple_1.jpg") !important;
-  background-position-y: bottom;
-  background-size: cover;
-}
-
-.back-sobrecosto {
-  background-image: url("/../assets/backgrounds/home_image_grey.jpg") !important;
-  background-position-y: bottom;
-  background-size: cover;
-}
-
-.back-financiacion {
-  background-image: url("/../assets/backgrounds/home_image_yellow_2.jpg") !important;
   background-position-y: bottom;
   background-size: cover;
 }
