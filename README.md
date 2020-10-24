@@ -4,9 +4,6 @@ Final Proyect
 - Machine Learning forecasting model
 
 
-resulting page: https://supplier.herokuapp.com/ (spanish)
-
-
 
 ## Home Page 
 ![Home.png](https://github.com/Sebasc322/SupplierApp/blob/main/Home.png)
