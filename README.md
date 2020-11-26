@@ -15,7 +15,7 @@ Final Proyect
 
 
 
-This web app was based on Proyect Canopy's web app
+This web app was based on Project Canopy's web app
 https://www.proyectocanopy.co/
 
-Thanks to Canopy Proyect!
+Thanks to Canopy Project!
